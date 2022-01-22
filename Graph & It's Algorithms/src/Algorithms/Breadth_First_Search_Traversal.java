@@ -22,9 +22,7 @@ public class Breadth_First_Search_Traversal {
 
             while(queue.isEmpty () == false){
                   Path removed = queue.remove();
-
                   for(Graph.Edge edge : graph.adj.get(removed.last)){
-
                         if(visited[edge.dest] == false) {
                               visited[edge.dest] = true;
                               queue.add (new Path (edge.dest, removed.psf +"-"+ edge.dest));
@@ -34,9 +32,7 @@ public class Breadth_First_Search_Traversal {
                               }
                         }
                   }
-
             }
-
       }
 
 
