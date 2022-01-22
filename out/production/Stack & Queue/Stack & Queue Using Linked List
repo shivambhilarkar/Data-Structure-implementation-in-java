@@ -1,4 +1,4 @@
-Queue using Linked List
+✅Queue using Linked List
 1. Queue is first in first out Data structure
 2. if we have functionality in data structure where we can insert at last &
 removed from front then we can implement queue behaviour.
@@ -6,7 +6,10 @@ removed from front then we can implement queue behaviour.
 then we can implement Queue.
 
 
-Stack Using Linked List
+
+
+
+✅Stack Using Linked List
 1. Stack is First in Last out Data structure.
 2. if we have functionality where we can insert from one end and also delete element
 from that end.
