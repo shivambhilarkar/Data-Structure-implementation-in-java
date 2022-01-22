@@ -6,6 +6,7 @@ removed from front then we can implement queue behaviour.
 then we can implement Queue.
 
 
+![Queue Linkedlist](https://user-images.githubusercontent.com/56465438/150628480-c54f3ee9-dccb-44f7-9523-ae17a04307f0.png)
 
 
 
@@ -17,3 +18,4 @@ from that end.
 4. so if we implement function add_at_head & remove_from_front then we can implement
 Stack Data structure using Linked List.
 
+![download](https://user-images.githubusercontent.com/56465438/150628494-72089468-25df-41d0-8099-8d81c502773c.png)
