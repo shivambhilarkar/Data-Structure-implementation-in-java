@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataStructure GitHub.iml" filepath="$PROJECT_DIR$/DataStructure GitHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack &amp; Queue/Stack &amp; Queue.iml" filepath="$PROJECT_DIR$/Stack &amp; Queue/Stack &amp; Queue.iml" />
     </modules>
   </component>
 </project>
