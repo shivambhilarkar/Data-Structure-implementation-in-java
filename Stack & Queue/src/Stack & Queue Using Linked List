@@ -1,0 +1,16 @@
+Queue using Linked List
+1. Queue is first in first out Data structure
+2. if we have functionality in data structure where we can insert at last &
+removed from front then we can implement queue behaviour.
+3. so if we implement function add_at_last & remove_from_front using linked list
+then we can implement Queue.
+
+
+Stack Using Linked List
+1. Stack is First in Last out Data structure.
+2. if we have functionality where we can insert from one end and also delete element
+from that end.
+3. then we can have behaviour as Stack.
+4. so if we implement function add_at_head & remove_from_front then we can implement
+Stack Data structure using Linked List.
+
