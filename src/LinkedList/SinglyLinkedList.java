@@ -20,7 +20,8 @@ class LinkedList {
 
     private Node head;
 
-    LinkedList() { }
+    LinkedList() {
+    }
 
     public void add_at_head(int val) {
         Node node = new Node(val);
@@ -101,7 +102,7 @@ class LinkedList {
 
 }
 
-public class Linked_list_ {
+public class SinglyLinkedList {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
