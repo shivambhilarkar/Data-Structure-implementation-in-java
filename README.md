@@ -9,32 +9,32 @@ some of this topics are not covered ! In mean time I'll covered that also.
     
 ### 1 Queue & Stack
 - [x] Queue
-- Array Deque
+- [] Array Deque
 ### 2. LinkedList
-- Singly Linked List
-- Doubly Linked List
-- Circular Linked List
+- [X] Singly Linked List
+- [] Doubly Linked List
+- [] Circular Linked List
 ### 3. Map
-- HashMap
-- HashSet
+- [X] HashMap
+- [X] HashSet
 ### 4. Heap (Priority Queue)
-- Min Priority Queue
-- Max Priority Queue
+- [X] Min Priority Queue
+- [] Max Priority Queue
 ### 5. Tree 
-- N-Array Tree (Not Done)
-- Binary Tree  (Not Done)
+- [] N-Array Tree (Not Done)
+- [X] Binary Tree  (Not Done)
 ### 6. Graph
-- Graph Representation with Adj. List
-- Graph Representation with Adj. Matrix
+- [X] Graph Representation with Adj. List
+- [X] Graph Representation with Adj. Matrix
 ### 7. Disjoint Set
-- Disjoint Set Naive
-- Disjoint Set Rank with Path Compression
-- Disjoint Set using HashMap
+- [X] Disjoint Set Naive
+- [X] Disjoint Set Rank with Path Compression
+- [X] Disjoint Set using HashMap
 ### 8. Segment Tree
-- Naive approach
-- Lazy propogation
+- [X] Naive approach
+- [] Lazy propogation
 ### 9. Trie
-
+- [x] Trie construction.
 
 ---
 
