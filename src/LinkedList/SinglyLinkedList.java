@@ -16,6 +16,7 @@ class Node {
 }
 
 
+//Singly Linked List
 class LinkedList {
 
     private Node head;
